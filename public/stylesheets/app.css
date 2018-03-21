@@ -13,3 +13,7 @@ i.icon {
 .description {
     text-align: center;
 }
+
+#delete {
+    display: inline;
+}
